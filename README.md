@@ -4,8 +4,8 @@ KnowledgeBridge is an organizational application designed to facilitate seamless
 
 ## Details  
 
-- [Project details](./folder/project.md)
-- [Productive modules](./folder/productive_modules.md)
-- [User perspective](./folder/user_perspective.md)
-- [Modals and Routers](./folder/modals_and_routers.md)
-- [Project implementation guide](./folder/project_imp_guid.md)
+- [Project details](./details/project.md)
+- [Productive modules](./details/productive_modules.md)
+- [User perspective](./details/user_perspective.md)
+- [Modals and Routers](./details/modals_and_routers.md)
+- [Project implementation guide](./details/project_imp_guid.md)
